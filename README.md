@@ -1,4 +1,4 @@
 Foodle-s
 ========
 
-A menu app for iOS
+A mockup menu app for course project.
